@@ -1,0 +1,63 @@
+body {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+div {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+input {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+div {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+span {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+
+
+
+
+
+
+body
+{
+    background-size: cover;
+    background-position: center;
+    background-image: url("ap_resize.png");
+}
+
+.heading
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+font-weight: bold;
+}
+
+#status, #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+    margin-top: 30px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+.note
+{
+    font-size: 26px;
+    color: darkcyan;
+    width: 100%;
+}
